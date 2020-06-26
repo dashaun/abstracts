@@ -3,8 +3,8 @@
 ## Abstract
 
 The best person to create observability for your application is you.
-Going from reactive monitoring and alerting to proactive obersavility enables us to deliver our apps with confidence.
-Make the business, SRE, and ops teams happy by delivering obersability, with your code, to production
+Going from reactive monitoring and alerting to proactive observability enables us to deliver our apps with confidence.
+Make yourself, the business, SRE, and ops teams happy, by delivering observability, with your code, to production.
 
 In this session, the presenter discusses:
 
