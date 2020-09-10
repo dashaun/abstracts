@@ -2,8 +2,8 @@
 
 ## Abstract
  
-Traditionally spring framework has been popular with accessing RDBMS databases
-for its compressive transaction support and declarative way of executing transactions compared to EJBs.
+Traditionally spring framework has been popular with accessing RDBMS databases.
+Its compressive transaction support and declarative way of executing transactions compare favorably over EJBs.
 As enterprises embrace cloud-native architecture,
 Spring Data projects have been very popular for implementing data access APIs in spring microservices,
 partly due to the consistent abstractions provided by spring data irrespective of SQL dialects.
