@@ -1,6 +1,7 @@
-Consuming Azure Services in Azure Spring Cloud
+#Consuming Azure Services in Azure Spring Cloud
 
-Abstract
+##Abstract
+
 Getting to MVP is easy with Spring Boot and Azure Spring Cloud.
 Spring Boot Starters consistent abstraction makes for an easy experience.
 Upgrade an existing "MVP" application, using services available within Azure.
