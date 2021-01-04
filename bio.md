@@ -1,5 +1,5 @@
 DaShaun is a Partner Solution Architect for Redis Labs.
-A husband, father of four, volunteer and reluctant athlete.
+A husband, father of four, volunteer and struggling athlete.
 Deliberately practicing to build better software, faster.
 Generalist.
 Computer Science.
