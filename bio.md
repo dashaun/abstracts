@@ -7,5 +7,5 @@ MBA.
 Continuously learning.
 Believes that every rep counts.
 Doesn't have anything figured out.
-Still trying to prove to himself that the sacrifices that his parents made for him, were worth it.
 Trying to get a little better every day. 
+Understanding in order to be understood.
