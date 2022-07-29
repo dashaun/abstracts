@@ -1,3 +1,5 @@
+# My children will never deploy active-passive
+
 Is your app alone and trembling in a dark, single-region with failures, latency, and retry storms closing in on every side?
 
 In this session, you will learn a reference architecture, for modern, geo-distributed applications.
