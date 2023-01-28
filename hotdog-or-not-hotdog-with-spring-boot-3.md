@@ -1,1 +1,3 @@
+# Hotdog or not hotdog with Spring Boot 3
+
 In this session, we will explore the capabilities of JSR381 "VisRec," a standard high-level API for Machine Learning in Java. We will use Spring Boot 3 and the reference implementation of JSR381,  based on Deep Netts, a pure Java deep learning library, to build the now-famous hotdog classifier. Additionally, we will demonstrate how to optimize the performance of our classifier using GraalVM and Spring's AOT Processing. This session is an excellent opportunity for Java developers to learn about the latest advancements in machine learning and how to apply them in their projects using a Java-centric approach with Spring.
