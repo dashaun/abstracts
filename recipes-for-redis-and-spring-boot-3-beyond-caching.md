@@ -1,0 +1,3 @@
+# Recipes for Redis and Spring Boot 3, beyond caching.
+
+Have you heard? Redis is an excellent fix for broken architectures. This session will take you beyond caching and dive into other widespread use cases for Redis with Spring Boot 3. You will learn about the data types provided by Redis and how to use them effectively in Spring. You will learn to use Redis as a rate limiter and for session management with Spring Boot. Finally, you will discover the power of Redis for JSON searching and autocomplete. This session is for developers of all levels wanting to increase the performance and capabilities of their Spring Boot applications.
