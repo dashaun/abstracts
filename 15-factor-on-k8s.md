@@ -1,8 +1,3 @@
-# 15-Factor on K8s
+# Deliver 15-Factor Applications on Kubernetes with Spring Boot
 
-Perhaps you have heard of 12-factor apps, cloud-native, or 15-factor apps.
-Maybe you have wondered if cloud-native was right for you.
-In this session we will explore how to deliver apps using this methodology on k8s.
-We will start by explaining the 15-factors.
-We will also review the cloud native features that are built into k8s.
-Then we will create a new application, for k8s, and demonstrate how to make it 15-factor-cloud-native-on-k8s!
+Are you ready to take your application development to the next level? Join us in this session as we dive into the world of 15-factor, cloud-native apps and how to leverage Spring Boot and Kubernetes to deliver them. We'll start by breaking down the 15-factors, and then show you how to harness the power of Kubernetes' built-in cloud-native features. But that's not all - we'll also give you a hands-on experience by building a new application from scratch and showing you how to make it truly bootiful, 15-factor, cloud-native, and ready for deployment on Kubernetes. Don't miss out on this opportunity to elevate your development skills and stay ahead of the curve.
