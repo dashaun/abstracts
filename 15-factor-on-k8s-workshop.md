@@ -17,4 +17,5 @@ Topics covered:
 - Observability
 - Testcontainers
 - Buildpacks
+- Scale to Zero
 - and more
