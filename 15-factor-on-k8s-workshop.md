@@ -11,9 +11,10 @@ to make them truly 'bootiful', 15-factor, cloud-native, and ready for deployment
 Don't miss this opportunity to enhance your development skills and stay ahead of the curve.
 
 Topics covered:
-Spring Boot
-Spring Cloud
-Spring RESTdocs
-Testcontainers
-Buildpacks
-and more
+- Spring Boot
+- Spring Cloud
+- Spring RESTdocs
+- Observability
+- Testcontainers
+- Buildpacks
+- and more
