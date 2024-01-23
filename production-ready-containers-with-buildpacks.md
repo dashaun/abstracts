@@ -7,3 +7,5 @@ We explore the extensibility of buildpacks and the availability of pre-built bui
 Practical insights and best practices are provided for incorporating buildpacks into the containerization workflow. Considerations for selecting buildpacks, integrating them with the build pipeline, and managing updates and dependencies are discussed.
 
 Join us to discover how buildpacks streamline containerization, empowering you to deliver robust applications in less time.
+
+"Friends don't let friends use Dockerfile"
