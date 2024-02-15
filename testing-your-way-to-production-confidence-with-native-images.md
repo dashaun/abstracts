@@ -4,7 +4,7 @@ For Spring developers, GraalVM native images offer exciting potential: smaller f
 
 Key Takeaways:
 
-- Leveraging TestContainers for external resource validation: Learn how to use TestContainers to ensure your native image interacts seamlessly with external systems like databases, queues, and caches.
+- Leveraging Testcontainers for external resource validation: Learn how to use Testcontainers to ensure your native image interacts seamlessly with external systems like databases, queues, and caches.
 - Integrating GraalVM with buildpacks for OCI image creation: Discover how to generate and validate OCI images with buildpacks and GraalVM, streamlining your deployment process.
 - Testing native images with RestAssured: See how to use the same RestAssured tests against both your JVM and native image builds, guaranteeing functional parity.
 - Efficient testing strategy: Learn how to save time and resources by focusing native image testing in your CICD pipeline, while ensuring confidence through earlier-stage validations.
