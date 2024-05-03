@@ -1,0 +1,5 @@
+# Spring Shell and Spring CLI
+
+In part one unlock the power of command-line interfaces with Spring Shell! Simplify CLI implementation using the familiar Spring programming model. Create interfaces that are easy to use and maintain with advanced features such as parsing, tab completion, and output formatting.
+
+In part two, Spring CLI, built on Spring Shell, accelerates your Spring development journey. Streamline project creation with customization and refactoring options. Seamlessly merge external projects with intelligent dependency and code handling. Define and run user-friendly commands to automate tasks, configure files, or interact with other CLIs. Ultimately, Spring CLI promotes code consistency by allowing teams to establish standardized project templates with preferred libraries and coding styles.
